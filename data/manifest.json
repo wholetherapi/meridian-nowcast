@@ -1,0 +1,12 @@
+{
+  "stations": ["north-ridge", "harbor-buoy", "valley-floor", "coastal-array"],
+  "splits": {
+    "train": {"count": 8800, "shards": ["train-000.npz", "train-001.npz"]},
+    "test": {"count": 1200, "shards": ["test-000.npz"]}
+  },
+  "checksums": {
+    "train-000.npz": "6f1d2c0a9b3e4d5f",
+    "train-001.npz": "c7a8b9d0e1f2a3b4",
+    "test-000.npz": "0a1b2c3d4e5f6071"
+  }
+}

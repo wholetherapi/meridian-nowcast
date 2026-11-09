@@ -1,0 +1,8 @@
+data_root: data
+channels: 6
+hidden: 64
+horizon: 6
+batch_size: 32
+learning_rate: 0.0003
+epochs: 40
+output_dir: runs/default
